@@ -1,1 +1,2 @@
-# map_visualization_project
+# Data visualization project using Folium
+
